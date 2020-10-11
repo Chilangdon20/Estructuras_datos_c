@@ -7,14 +7,14 @@
 
 **Equipo 1.**
 
-Práctica 1: **Creación de Diccionario para aplicación de word2vec.**
+# Práctica 1: **Creación de Diccionario para aplicación de word2vec.**
 
 ## Integrantes:
 
-* Ávila Pérez José Alberto.
-* Martínez García Diana Karina.
-* Vázquez Sánchez Fernando.
-* Tercero Lopez Alexis Uriel.
+* **Ávila Pérez José Alberto.**
+* **Martínez García Diana Karina.**
+* **Vázquez Sánchez Fernando.**
+* **Tercero Lopez Alexis Uriel.**
 ---
 ## Contenido:
 
