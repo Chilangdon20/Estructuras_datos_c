@@ -27,6 +27,8 @@
 ---
 **IMPORTANTE: El marco teorico completo se encuentra  [Aquí](https://docs.google.com/document/d/1xZNELCRa4TWiTQRWfMn7kRMA-ivcPC9zwbPghOuQL2g/edit?usp=sharing) , aqui solo es una breve introduccion a los temas**.
 
+---
+
 ## NATURAL LANGUAGE PROCESSING (NLP).
 
 **Definición:**
