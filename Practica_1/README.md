@@ -25,8 +25,10 @@
 
 
 ---
-**IMPORTANTE: El marco teorico completo se encuentra  [Aquí](https://docs.google.com/document/d/1xZNELCRa4TWiTQRWfMn7kRMA-ivcPC9zwbPghOuQL2g/edit?usp=sharing) , aqui solo es una breve introduccion a los temas**.
+**IMPORTANTE: 
+ * El marco teorico completo se encuentra  [Aquí](https://docs.google.com/document/d/1xZNELCRa4TWiTQRWfMn7kRMA-ivcPC9zwbPghOuQL2g/edit?usp=sharing) , aqui solo es una breve introduccion a los temas**.
 
+ * **[DIAGRAMA DE FLUJO](https://drive.google.com/file/d/1uWssOdo9o5myyVaGZbfBSAPmdY1NCTGt/view)**
 ---
 
 ## NATURAL LANGUAGE PROCESSING (NLP).
