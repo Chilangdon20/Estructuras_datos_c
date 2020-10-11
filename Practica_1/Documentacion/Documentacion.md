@@ -10,14 +10,13 @@ una lista con las palabras y su ocurrencia en el texto en forma ascendente.
 
 # Metodologia: 
 
-Se usara la siguiente estructura de procesamiento de datos
-    ESQUEMA DE LA ESTRUCTURA DE DATOS (lista de palabras y su ocurrencia):
-       -----------------------------------------------------------
-      |  archivo (fuente) -> cadenas -> palabras -> lista        |
-      |  lista -> n-registro -> { char *palabra, int ocurrencia} |
-      |  lista -> archivo (resultado)                            |
-       ----------------------------------------------------------
+Se usara la siguiente estructura de procesamiento de datos.
 
+ ESQUEMA DE LA ESTRUCTURA DE DATOS (lista de palabras y su ocurrencia):
+    
+  * archivo (fuente) -> cadenas -> palabras -> lista        
+  * lista -> n-registro -> { char *palabra, int ocurrencia} 
+  * lista -> archivo (resultado)                            
 
 El cual describe un proceso de acumulacion de palabras diferentes (contenidas
 en el texto fuente),en una lista, en donde tambien se almacena el numero
@@ -28,17 +27,18 @@ Procedimiento:
  1) crear conexion programa-archivo con los arvivos fuente y resultado.
 
  2) Declaracion de la estructura de datos.
+ 
    Dado que nuestro objetivo es optener una lista de las palabras en ese texto y
    su ocurrencia en el mismo, pensamos en una estructura de datos que cumple con tales
    requerimientos:
 
-   ** La lista de palabras distintas y su ocurrencia en un texto esta soportada en C por
+ **La lista de palabras distintas y su ocurrencia en un texto esta soportada en C por
     la siguiente estructura de datos
     lista : Arrglo de estructuras.**
 
-            Cada estructura consiste en un registo de los siguientes datos:
-                 i)  palabra     (puntero a cadena de caracteres).
-                 ii)  ocurrencia  (valor entero que inicia en 1 ).
+ **Cada estructura consiste en un registo de los siguientes datos:**
+    * palabra     (puntero a cadena de caracteres).
+    * Ocurrencia  (valor entero que inicia en 1 ).
 
  3) Extraemos del texto fuente cadenas de caracteres con ayuda de la funcion fscanf()
    y las almacenamos en un arreglo de caracteres primario que no precisamente formen
