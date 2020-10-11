@@ -16,6 +16,7 @@
 * **Vázquez Sánchez Fernando.**
 * **Tercero Lopez Alexis Uriel.**
 * **Espada López Itzayana**
+* **Gutiérrez Palencia Mario.**
 ---
 ## Contenido:
 
