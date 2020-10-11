@@ -7,4 +7,5 @@ En este repositorio vienen los codigos de las practicas de la materia Estructura
 * Practica 1 :
   
   1. Codigo
-  2. Archivos de Prueba
+  2. Archivos de Prueba.
+  3. Marco Teorico
