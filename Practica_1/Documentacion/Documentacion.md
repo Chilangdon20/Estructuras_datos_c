@@ -28,9 +28,9 @@ Procedimiento:
 
  2) Declaracion de la estructura de datos.
  
-   Dado que nuestro objetivo es optener una lista de las palabras en ese texto y
-   su ocurrencia en el mismo, pensamos en una estructura de datos que cumple con tales
-   requerimientos:
+ Dado que nuestro objetivo es optener una lista de las palabras en ese texto y
+ su ocurrencia en el mismo, pensamos en una estructura de datos que cumple con tales
+ requerimientos:
 
  **La lista de palabras distintas y su ocurrencia en un texto esta soportada en C por
     la siguiente estructura de datos
