@@ -13,8 +13,8 @@
 ---
 ## Contenido:
 
-* MARCO TEÓRICO
-* RESUMEN
+* **[MARCO TEÓRICO](https://drive.google.com/file/d/1BOVEFZeDufLFisPsUEZhJc7f2kANuRYH/view?usp=sharing)**
+* **[RESUMEN](https://drive.google.com/file/d/1zwUu22viPzlreLTefYYQ7rTxM3Zp0h8Z/view?usp=sharing)** 
 * **[DIAGRAMA DE FLUJO](https://drive.google.com/file/d/1uWssOdo9o5myyVaGZbfBSAPmdY1NCTGt/view)**
 * COMENTARIOS
 * CONCLUSIONES
