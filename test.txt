@@ -1,1 +1,0 @@
-Esto es un test para ver si configuré bien git
