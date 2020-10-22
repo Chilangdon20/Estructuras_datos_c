@@ -1,12 +1,3 @@
-/******************************************************************************
-Autor:Alexis Terecro
-
-Objetivo:
-Realizar una aplicacion que lea un texto de un archivo.txt, cuente la
-ocurrencia de cada palabara en el texto y por ultimo imprima en otro archivo.txt
-una lista con las palabras y su ocurrencia en el texto en forma ascendente.
-
-*******************************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <wchar.h>
@@ -53,29 +44,29 @@ int main()
             else
                 switch(p[a])
                 {
-                    case '·' : fprintf(resultado,"%c",p[a]); break; //a con acento
+                    case '√°' : fprintf(resultado,"%c",p[a]); break; //a con acento
 
-                    case 'È' : fprintf(resultado,"%c",p[a]); break; //e con acento
+                    case '√©' : fprintf(resultado,"%c",p[a]); break; //e con acento
 
-                    case 'Ì' : fprintf(resultado,"%c",p[a]); break; //i con acento
+                    case '√≠' : fprintf(resultado,"%c",p[a]); break; //i con acento
 
-                    case 'Û' : fprintf(resultado,"%c",p[a]); break; //o con acento
+                    case '√≥' : fprintf(resultado,"%c",p[a]); break; //o con acento
 
-                    case '˙' : fprintf(resultado,"%c",p[a]); break; //u con acento
+                    case '√∫' : fprintf(resultado,"%c",p[a]); break; //u con acento
 
-                    case '¡' : fprintf(resultado,"%c",p[a]); break; //U con acento
+                    case '√Å' : fprintf(resultado,"%c",p[a]); break; //U con acento
 
-                    case '…' : fprintf(resultado,"%c",p[a]); break; //A con acento
+                    case '√â' : fprintf(resultado,"%c",p[a]); break; //A con acento
 
-                    case 'Õ' : fprintf(resultado,"%c",p[a]); break; //E con acento
+                    case '√ç' : fprintf(resultado,"%c",p[a]); break; //E con acento
 
-                    case '”' : fprintf(resultado,"%c",p[a]); break; //I con acento
+                    case '√ì' : fprintf(resultado,"%c",p[a]); break; //I con acento
 
-                    case '⁄' : fprintf(resultado,"%c",p[a]); break; //O con acento
+                    case '√ö' : fprintf(resultado,"%c",p[a]); break; //O con acento
 
-                    case 'Ò' : fprintf(resultado,"%c",p[a]); break; //ene con acento
+                    case '√±' : fprintf(resultado,"%c",p[a]); break; //ene con acento
 
-                    case '—' : fprintf(resultado,"%c",p[a]); break; //ENE con acento
+                    case '√ë' : fprintf(resultado,"%c",p[a]); break; //ENE con acento
                 }
             //fprintf(resultado,"%d : %c \n",p[a],p[a]); //escribe cada cadena en el archivo de resultado.
         fprintf(resultado,"\n");
