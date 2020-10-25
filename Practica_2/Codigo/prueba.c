@@ -1,4 +1,4 @@
-
+#include<stdio.h>
 
 
 /* Defino una estructura llamado datos , que contiene los dos datos que nos interesan
