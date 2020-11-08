@@ -1,4 +1,4 @@
-# Practica 2: : sistema automatico de negociacion
+# Practica 2:  Sistema automatico de negociacion
 
 ## OBJETIVO: 
 
