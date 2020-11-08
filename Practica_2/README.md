@@ -4,8 +4,7 @@
 
 Que el alumno diseñe un algoritmo para comprar y vender acciones bursátiles de forma automática.
 
-
-### Problema:
+### Problema:
 
 El programa debe ser capaz de **leer el archivo de texto donde aparece
 una lista de precios de la acción de Alphabet Inc durante el último año**
